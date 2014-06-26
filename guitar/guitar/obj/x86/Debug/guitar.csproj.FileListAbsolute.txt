@@ -1,0 +1,15 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\bin\Debug\guitar.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\bin\Debug\guitar.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.Main.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.welcome.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.eletric.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.Else.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.Lili.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.woods.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.TheOne.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.Final.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\guitar\guitar\obj\x86\Debug\guitar.Thanks.resources
